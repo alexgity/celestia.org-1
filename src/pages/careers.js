@@ -13,7 +13,6 @@ class CareersPage extends React.Component {
                 <div className={'careers-page'}>
                     <main>
                         <div className={'container'}>
-asdffg
                             <div className={'row mb-5 pb-5'}>
                                 <div className={'col col-12 col-md-6 pe-0 pe-md-5'}>
                                     <h1 className={'main mb-4'}>{content.title}</h1>
